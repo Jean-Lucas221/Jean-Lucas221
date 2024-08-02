@@ -1,3 +1,0 @@
-- 👋 Hi, I’m Jean
-- 👀 I’m interested in games
-- 🌱 I’m currently learning programtion
